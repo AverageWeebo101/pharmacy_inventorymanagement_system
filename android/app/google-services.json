@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477665231811",
+    "project_id": "pharmacy-inventorymanagementdb",
+    "storage_bucket": "pharmacy-inventorymanagementdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477665231811:android:8111bfb3709e2e1af6f376",
+        "android_client_info": {
+          "package_name": "com.pharma.db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1dtQj-mViRYxIZx-0qHLFP9YvuUYf74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477665231811:android:ffb5c10a60dd63b9f6f376",
+        "android_client_info": {
+          "package_name": "com.pharmadb.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1dtQj-mViRYxIZx-0qHLFP9YvuUYf74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
